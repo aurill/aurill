@@ -11,7 +11,7 @@
 **- 🚀 Feel free to explore my GitHub Repositories to see the rest of the projects that I worked on.**
 
 
-<div align = "center"><h2>This is a list of Tools, Software, and Applications that I have used.<h2></div>
+<div align = "center"><h2>This is a list of some of the Tools, Software, and Applications that I have used.<h2></div>
 
 <div align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj_KiTZmTMb-vgMM4cd_22DQZ6Kw-G4lYFdNuDg61JbcBrEBk-NX19fjzNmyI5IJ3qL8OAG5YPwLcZ8t06i1VZJTzFeUJS_IDhuv9l1YiZQ0O1EJn6gQRf0hgl2yxM0uwOM1JbXKwGuQdvNisqOofTpUf3LfHzF25DcLEpaRmwinyfZLQXMGEaxRQ_iossL=w72-h72" alt="" style="width: 150px; height: 90px; margin: 5px;">
