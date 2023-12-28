@@ -6,7 +6,7 @@
 
 **- ⚒️ I have created a [Starbucks E-commerce Website](https://www.youtube.com/watch?v=qoFOY9T3spA) using HTML, CSS, and JavaScript. Incorporated Stripe API for the Cart Checkout process and used Node.js for the server-side aspect of the website. Used sophisticated, detailed prompts (Prompt Engineering) to design the bulk of the product images showcased throughout the website using DALLE -3 image-generating software.**
 
-**- 🌱 I’m currently learning how to build on my skills in developing a Feed Forward Neural network to develop a project using a Convolutional Neural Network Framework. Considering doing an image classification project or a Recommender System. Stay Tuned for that project that is to come.**
+**- 🌱 I’m currently learning how to build on my skills in developing a Feed Forward Neural network to develop a project using a Convolutional Neural Network Framework. Considering doing an image classification project or a Recommender System. Stay tuned for that project that is to come.**
 
 **- 🚀 Feel free to explore my GitHub Repositories to see the rest of the projects that I worked on.**
 
