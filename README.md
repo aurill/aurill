@@ -8,7 +8,7 @@
 
 **- 🌱 I’m currently learning how to build on my skills in developing a Feed Forward Neural network to develop a project using a Convolutional Neural Network Framework. Considering doing an image classification project or a Recommender System. Stay tuned for that project that is to come.**
 
-**-🌱I'm also learning to leverage Open Ai's Assistants API to learn how to create AI chatbots using their GPT architecture. This should provide a more reliable and improved Chatbot service as opposed to using a Feed Forward Neural Network which has its limitations. Stay tuned for that project that is to come.**
+**-🌱I'm also learning how to leverage Open AI's Assistants API to learn how to create AI chatbots using their GPT architecture. This should provide a more reliable and improved Chatbot service as opposed to using a Feed Forward Neural Network which has its limitations. Stay tuned for that project that is to come.**
 
 **- 🚀 Feel free to explore my GitHub Repositories to see the rest of the projects that I worked on.**
 
