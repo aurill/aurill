@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi there, I am Dominic A. Waite👋</h1></div>
 
-<div align = "center"><h2>An Aspiring AI Engineer and Entrepeneur<h2></div>
+<div align = "center"><h2>An Aspiring AI Engineer and Entrepreneur<h2></div>
 
 **- 🔭 I’m currently working on a [Starbucks Chatbot Web Application](https://www.youtube.com/watch?v=64LHlNL-w3o) named Medussa by leveraging Machine Learning skills and Natural Language Processing techniques like tokenization and stemming to develop the Feed Forward Neural Network FrameWork as well as using HTML, CSS, JavaScript, and Python’s Flask API Application to design the Front-end User Interface design.**
 
